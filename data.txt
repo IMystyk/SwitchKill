@@ -1,0 +1,6 @@
+BEGIN
+192.168.5.20 24 5 admin switch
+192.168.5.30 24 4 cisco cisco
+192.168.5.50 15 3 admin 
+192.168.5.70 20 8 admin empty
+END
